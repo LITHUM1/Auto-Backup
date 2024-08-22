@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/LITHUM1/Auto-Backup/blob/main/README.md)
+
 Объяснение:
 
 Аргументы: Скрипт теперь ожидает три аргумента:
