@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-RU-red.svg)](https://github.com/LITHUM1/Auto-Backup/blob/main/README-RU.md)
+
 Explanation:
 
 Arguments:
